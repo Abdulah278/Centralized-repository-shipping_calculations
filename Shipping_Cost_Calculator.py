@@ -1,5 +1,4 @@
 # Here is a new update by abdulah alharas
-# Here is another update by abdulah alharas
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
